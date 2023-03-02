@@ -1,0 +1,5 @@
+start
+start
+disassemble main
+p main
+p get_shell

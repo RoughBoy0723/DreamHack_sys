@@ -1,0 +1,22 @@
+r
+break main
+r
+ni
+ni
+ni
+bi
+ni
+si
+ni
+ni
+ni
+ni
+ni
+ni
+x/s 0x80483c0
+r
+print read_flag
+print buf
+print main
+print main
+print main

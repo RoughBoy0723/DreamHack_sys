@@ -1,0 +1,130 @@
+start
+disassemble main
+ls
+start
+disassemble main
+start
+n
+n
+n
+n
+n
+nn
+n
+start
+disassemble main
+start
+search check
+p check
+r
+c
+start
+n
+p printflag
+start
+got
+plt
+start
+n
+x/10i 0x7fffffffdf60
+disassemble main
+x/s %rbp-04
+x/s $rbp-04
+x/i $rbp-04
+x/10i $rbp
+x/10i $rbp-10
+x/10i $dx
+x/i $dx
+x/i $rax
+x/i $eax
+search check
+start
+n
+x/10i $rbp-3
+x/i $rbp-4
+stack
+info frame
+stack main
+k
+startk
+start
+n
+n
+n
+n
+n
+start
+start
+x/10i 0x7fffffffded0
+x/10i 0x7fffffffded0-10
+x/s 0x7fffffffded0-10
+x/s 0x7fffffffded0-4
+x/s 0x7fffffffded0
+n
+p $rbp-4
+x/i 0x7fffffffdf5c
+b main+15
+b *main+15
+r
+x/s 0x5555555552ae
+x/i 0x5555555552ae
+n
+x/x $rbp-4
+start
+n
+n
+n
+p $rbp-4
+x/x 0x7fffffffdf5c
+n
+n
+x/x 0x7fffffffdf5c
+start
+x/x 0x7fffffffdf5c
+n
+nn
+n
+x/x 0x7fffffffdf5c
+p printflag
+p main
+p *main
+start
+p *main
+p printflag
+x/s 0x7fffffffdf5c
+x/x 0x7fffffffdf5c
+n
+x/x 0x7fffffffdf5c
+n
+x/x 0x7fffffffdf5c
+n
+x/x 0x7fffffffdf5c
+n
+x/x 0x7fffffffdf5c
+x/x 0x7fffffffdf5a
+x/x 0x7fffffffdf5b
+x/x 0x7fffffffdf5d
+x/x 0x7fffffffdf5e
+x/x 0x7fffffffdf5f
+start
+info function
+start
+n
+n
+n
+x/30x $rip
+x/30x $rbp
+start
+p rbp-34
+p *rbp-4
+p $rbp-4
+n
+p $rbp-4
+x/30x $rbp
+x/30x $rsp
+x/30x $rip
+x/30x $rbp-10
+x/30x $rbp-4
+x/x $rbp-4
+p $rbp-4
+x/x 0x7fffffffdf5c

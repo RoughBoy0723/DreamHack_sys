@@ -1,0 +1,45 @@
+p write
+p system
+q
+r
+vmmap
+find /bin/sh
+libc
+p 0xf7f7802b-0xf7e1f000
+q
+start
+start
+find /bin/sh
+libc
+r
+r
+p system
+p write
+libc
+start
+disassemble main
+p 0xf7f7802b-0xf7e1f000
+x/s 80483f0
+x/s 0x80483f0
+x/i 0x80483f0
+x/i 0x804a00c
+x/3i 0x804a00c
+plt
+start
+plt
+got
+x/s 0x8048456
+x/i 0x8048456
+x/i 0x804a024
+x/3i 0x804a024
+x/10i 0x804a024
+x/3i 0x804a024
+x/3i 0x804a024
+x/i 0x804a024
+x/i 0x804a018
+p main
+search main
+start
+plt
+got
+start

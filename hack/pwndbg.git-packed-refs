@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+9ff5003e8fe6878147f8c38b68a808a0fea5dabd refs/remotes/origin/add-patch-command
+52d30e2a722454409cf91867995b2f76e874c6c3 refs/remotes/origin/dev
+12d8ac3998f64c98184b57241f1a205d0b5ab405 refs/remotes/origin/display-fd-path
+a9e7bf53f16c9f5afdbfc2a739af15ba30c96577 refs/remotes/origin/fix-command-parsing
+849845859dcf10c7aedbcb5e85a9abd3e943db39 refs/remotes/origin/hack-pt-dump
+c5ff5f9c80f1ccb102b662c1b879a2c45b81be88 refs/remotes/origin/remove-object-inheritance
+13f3945ca5be817facf40d2a8c5975b757438a88 refs/remotes/origin/remove-shebang-and-coding
+80950524e1b0bfe793de190123c5efbb5c13d77f refs/tags/2016.09.12
+^ced1734e526ee0c9a6f90186836fef80a792052e
+d7759ad75228fd1268d5fb2dac7d79d19053aaec refs/tags/2016.09.22
+^be9b06776b3342d43c358f5fecac6d08470e926f
+fa5af3a11b701f4fce1512eafe772612c64ed473 refs/tags/2017.02.01
+^99823ee68d0c7966457a4381a2f960f70b461163
+8c17a0a99ea9bfb619984ee8c13aac3944d6905f refs/tags/2017.09.26
+^1ab3de07fb379d4497024234e66e61fae6db7367
+bd814a3e8dc0ae0eee045a8141f88e702d6701b6 refs/tags/2018.07.29
+^2e77c5d34813dc2b38086b93c2fc2aadf4b44d07
+068bcffbf11c2117dc402c08e05184ccb3f91754 refs/tags/2019.01.25
+5f40345734b9b5e6064a30a345fa55d498ddd043 refs/tags/2019.12.09
+fa326d34831f7e684b05b482137c6ae130e899b3 refs/tags/2020.07.23
+a79c85b0e70ae75eb9354eb385b897f6f1cc6fc0 refs/tags/2021.06.22
+96d3d5ad764568051107657d80edee901c8c4acc refs/tags/2022.01.05

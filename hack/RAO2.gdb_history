@@ -1,0 +1,11 @@
+print get_shell
+r
+print get_shell
+print alarm_handler
+print initialize
+print main
+r
+r
+r
+r
+nearpc 0x400611

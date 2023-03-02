@@ -1,0 +1,5 @@
+i func init
+disas init
+q
+r
+print get_shell

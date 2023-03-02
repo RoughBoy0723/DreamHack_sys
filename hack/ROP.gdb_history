@@ -1,0 +1,103 @@
+start
+plt
+got
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+s
+n
+q
+start
+n
+n
+n
+n
+n
+n
+n
+n
+n
+x/i $eip
+x/s $eip
+x/3s 0x4006d7
+x/3i 0x4006d7
+b _start
+r
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+start
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+x/i 0x4006d7
+x/i 0x4005b0
+x/3i 0x4005b0
+x/x 0x200a82
+x/x 0x601038
+start
+search /bin/sh
+start
+disassemble puts
+x/i %rip
+x/i %eip
+rinux -v
+v
+-v
+start
+search /bin/sh
+p system
+x/s 0x7ffff7dd4d60
+x/i 0x7ffff7dd4d60
+start
+search /bin/sh
+x/s 0x7ffff7f5c698
+start
+plt
+
+ls
+start

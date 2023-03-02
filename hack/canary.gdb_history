@@ -1,0 +1,256 @@
+x/s 0x1b
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+b mainc
+b main
+r
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+b main
+r
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+print [ebp-0x8]
+print ebp-0x8
+print ebp
+print $ebp-0x8
+x/s 0xffffd120
+print $[ebp-0x8]
+print $ebp-0x8
+print /a $ebp-0x8
+print /a $ebp
+break *main+50
+continue HHHHHHHH
+print $ebp-0x8
+x/s 0xffffd120
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+b main
+r
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+nini
+nini
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+b main
+r
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+b *main+345
+r
+continue
+r
+r
+disas main
+b main
+r
+disas main
+disasm main
+disasm main
+disasm main
+checkset
+help
+disasm main
+disasm get_shell
+print main
+disas main
+disassemble main
+r
+k
+kill
+b main
+r
+disasmblle
+disasmblle main
+disasmble main
+disasmb main
+disasm main
+disas main
+disassemble main
+b main
+r
+n
+s
+s
+s
+s
+s
+s
+info locals
+ni
+ni
+ni
+return f
+si
+ni
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+info
+info address--
+info address
+p [name]
+p name
+info break
+l
+|
+I
+1
+info locals
+p main
+x/10t main
+x/s main
+x/i main
+print get_shell
+disassamble main
+disassambl main
+disassembl main
+start
+SSn
+disassemble main

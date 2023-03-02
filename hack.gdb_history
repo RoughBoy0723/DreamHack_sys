@@ -1,0 +1,256 @@
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+finish
+finish
+finish
+finish
+finish
+x/10gx $rsp
+start
+x/10gx $rsp
+x/5i $rip
+x/s 0x555500000000
+x/s 0x555555555151
+tel
+tele
+vmmap
+r
+run $(python -c 'print "\xff"*100')
+r $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+r $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+r $(python -c 'print "\xff"*100') <<< $(python -c 'print"dreamhack"')
+run $(python -c 'print "\xff"*100')
+run $(python -c 'print "\xff"*100')
+r $(python -c 'print"\xff"*100')
+r $(python -c 'prin t"\xff "*100')
+r $(python -c 'print "\xff"*100')
+r $(python3 -c 'print"\xff"*100')
+r $(python -c 'print"\xff"*100')
+r $(python3 -c 'print"\xff"*100')
+r $(python3 -c 'prina("\xff"*100'))
+r $(python3 -c 'prina"\xff"*100')
+r $(python2 -c 'prina"\xff"*100')
+r $(python -c 'prina"\xff"*100')
+r $(python -c 'prina"\xff"*100')
+r $(python -c 'prina"\xff"*100')
+r $(python2 -c 'prina"\xff"*100')
+r $(python2 -c 'print"\xff"*100')
+b *run_sh
+r
+b *run_sh
+r
+ni
+ni
+ni
+ni
+ni
+ni
+si
+ni
+ni
+ni
+ni
+ni
+ni
+x/s
+x/s 0x7fffffffdf38
+si
+x/s 0x7fffffffdf38
+x/s 0x7fffffffdf68
+si
+sini
+sini
+sini
+ni
+ni
+ni
+ni
+ni
+ni
+b *caller
+r
+b *caller+43
+c
+r
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+x/4gx $rsp
+si
+q
+x/5i $rip
+r
+x/5i $rip
+b *caller
+r
+b *caller+43
+c
+c
+c
+r
+r
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+si
+x/5i $rip
+si
+x/4gx $rsp
+print $rbp
+si
+x/4gx $rsp
+print $rbp
+x/5i $rip
+print $rbp
+print $rsp
+si
+print $rbp
+print $rsp
+b *callee_87
+b *callee+87
+c
+x/5i $rip
+c
+print $rax
+ni
+si
+e
+r
+b *caller+87
+c
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+print $rax
+r
+ls
+disassemble main
+disassemble main
+b main+92
+break main+92
+break *main+92
+r
+si
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
